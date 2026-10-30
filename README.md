@@ -16,6 +16,13 @@ Open `index.html` in a modern browser (or host on GitHub Pages).
 
 Standard tuning: EADGBE.
 
+**How to use the fretboard:**
+1. Pick a root note and a scale/mode.
+2. The frets update immediately with the scale notes (red = root).
+3. Switch “Show” to Chord Notes or Both.
+4. Click “Generate Tab” for ASCII tablature of 5 positions.
+5. Hover notes for interval info.
+
 ## Features
 
 - Dark, clean interface inspired by modern editorial design
@@ -24,3 +31,4 @@ Standard tuning: EADGBE.
 - Clickable circle of fifths
 
 Built as a self-contained static site for easy deployment.
+
